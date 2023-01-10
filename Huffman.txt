@@ -1,0 +1,33 @@
+EXAMPLE-1
+
+Huffman Coding
+Enter the name of the file with letters and probability: src/LettersProbability.txt
+Enter a line of text (uppercase letters only):
+THIS IS COOL
+Here's the encoded line: 000 0101 1100 1001 1100 1001 01000 1101 1101 10111    
+The decoded line is : THIS IS COOL
+
+Process finished with exit code 0
+
+EXMAPLE-2
+
+Huffman Coding
+Enter the name of the file with letters and probability: src/LettersProbability.txt
+Enter a line of text (uppercase letters only):
+MY NAME IS SAKSHAM
+Here's the encoded line: 00111 00100 1010 1110 00111 011 1100 1001 1001 1110 0010111 1001 0101 1110 00111    
+The decoded line is : MY NAME IS SAKSHAM
+
+Process finished with exit code 0
+
+EXAMPLE-3
+
+Huffman Coding
+Enter the name of the file with letters and probability: src/LettersProbability.txt
+Enter a line of text (uppercase letters only):
+WHAT'S YOUR NAME
+Here's the encoded line: 111101 0101 1110 000 1001 00100 1101 01001 1000 1010 1110 00111 011    
+The decoded line is : WHAT'S YOUR NAME
+
+Process finished with exit code 0
+
